@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @g-code99
-- 👀 I’m interested in ... Go, Java, Python
-- 🌱 I’m currently learning ... Go, Python for myself. The university PHP, HTML, CSS, Javascript, JAVA, OpenGL, IA (Basics).
+- 👀 I’m interested in ... HTML, CSS, JAVASCRIPT, SWIFT, NODEJS.
+- 🌱 I’m currently learning ... SWIFT and OpenGL.
 - 💞️ I’m looking to collaborate on ... Any :)
 - 📫 How to reach me ... a...
 
