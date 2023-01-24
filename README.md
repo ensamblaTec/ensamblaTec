@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @g-code99
-- 👀 I’m interested in ... HTML, CSS, JAVASCRIPT, SWIFT, NODEJS.
-- 🌱 I’m currently learning ... SWIFT and OpenGL.
-- 💞️ I’m looking to collaborate on ... Any :)
+- 👀 I’m interested in ... Rust, C and C++ :)
+- 🌱 I’m currently learning ... SWIFT and Rust.
 - 📫 How to reach me ... a...
 
 <!---
