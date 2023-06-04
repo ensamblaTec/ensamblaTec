@@ -11,4 +11,7 @@
 * Node
 * Express.js
 
+## Learning
+* Rust
+
 ## Student
