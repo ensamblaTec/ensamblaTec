@@ -2,7 +2,7 @@
 
 ## Programmer
 
-## Technologies (road to web-development)
+## Technologies (road to web-developer)
 * html
 * css
 * Javascript
