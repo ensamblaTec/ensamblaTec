@@ -6,5 +6,6 @@
 
 * Rust
 * Go
+* Java (Spring Boot)
 
 ## Student
