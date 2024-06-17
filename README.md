@@ -4,6 +4,7 @@
 
 ### Learning:
 
+* Scala
 * Rust
 * Go
 * Java (Spring Boot)
